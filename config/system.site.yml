@@ -1,0 +1,14 @@
+uuid: 09e1e12e-7666-4607-ae7e-50c6103d7a99
+name: gooverseas-test
+mail: andrew.dunkle@me.com
+slogan: ''
+page:
+  403: ''
+  404: ''
+  front: /node
+admin_compact_mode: false
+weight_select_max: 100
+langcode: en
+default_langcode: en
+_core:
+  default_config_hash: yTxtFqBHnEWxQswuWvkjE8mKw2t8oKuCL1q8KnfHuGE
